@@ -6,7 +6,7 @@ Proyecto del curso **Introducción a la Ingeniería de Sistemas e Informática**
 
 🌐 **Sitio en línea:** https://dev-restaurante-chicha.pantheonsite.io/
 
-📱 **Código QR:** [`assets/img/qr-chicha.png`](assets/img/qr-chicha.png)
+
 
 ---
 
