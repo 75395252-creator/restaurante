@@ -101,9 +101,9 @@ El detalle completo está en el informe técnico en [`docs/`](docs/).
 
 | Integrante | Responsabilidad |
 |---|---|
-| `[Integrante 1]` | Ajustes globales, header, footer y animaciones |
-| `[Integrante 2]` | Inicio, Carta, popups y Nosotros |
-| `[Integrante 3]` | Reserva, Mi reserva y comprobante |
-| `[Integrante 4]` | Contacto, hosting, GitHub, QR y presentación |
+| `Daniela Miranda` | Ajustes globales, header, footer y animaciones |
+| `Melchora Coyla` | Inicio, Carta, popups y Nosotros |
+| `Shumira Flores` | Reserva, Mi reserva y comprobante |
+| `Edwar Mari` | Contacto, hosting, GitHub, QR y presentación |
 
 
