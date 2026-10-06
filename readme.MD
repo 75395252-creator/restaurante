@@ -4,7 +4,7 @@ Sitio web para **CHICHA**, un restaurante ficticio de cocina peruana en Juliaca,
 
 Proyecto del curso **Introducción a la Ingeniería de Sistemas e Informática** · NRC `[NRC]` · Docente: `[Nombre del docente]`
 
-🌐 **Sitio en línea:** [PEGAR AQUÍ EL ENLACE DE PHANTEON](https://)
+🌐 **Sitio en línea:** https://dev-restaurante-chicha.pantheonsite.io/
 
 📱 **Código QR:** [`assets/img/qr-chicha.png`](assets/img/qr-chicha.png)
 
