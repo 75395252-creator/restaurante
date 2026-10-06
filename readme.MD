@@ -106,6 +106,4 @@ El detalle completo está en el informe técnico en [`docs/`](docs/).
 | `[Integrante 3]` | Reserva, Mi reserva y comprobante |
 | `[Integrante 4]` | Contacto, hosting, GitHub, QR y presentación |
 
-## Licencia
 
-Proyecto académico sin fines comerciales. WordPress se distribuye bajo licencia GPL v2 o posterior. Elementor Pro requiere licencia propia.
